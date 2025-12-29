@@ -1,6 +1,6 @@
 $ErrorActionPreference = "Stop"
 
-$Repo = "TeamBrigit/Brigit" 
+$Repo = "NA-JPBrew/Brigit" 
 $InstallDir = "$HOME\Brigit"
 $BinDir = "$InstallDir\bin"
 
